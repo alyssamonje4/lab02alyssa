@@ -1,0 +1,81 @@
+{
+    "chart_title": "Sample Chart Data",
+    "data_points": [
+        {
+            "Hours of Sleep": [
+                4,
+                8,
+                6,
+                9,
+                10,
+                3,
+                6
+            ],
+            "Day of the Week": [
+                "Monday",
+                "Tuesday",
+                "Wednesday",
+                "Thursday",
+                "Friday",
+                "Saturday",
+                "Sunday"
+            ]
+        },
+        {
+            "Grams of Protein": [
+                15,
+                30,
+                17,
+                12,
+                32,
+                20,
+                15
+            ],
+            "Types of Meals": [
+                "Sorority lunch",
+                "Sushi Dinner",
+                "TinDrum Curry",
+                "Kaldi's yogurt",
+                "Sweetgreen",
+                "tofu",
+                "tofu fried rice"
+            ]
+        },
+        {
+            "Income": [
+                100,
+                250,
+                500,
+                800
+            ],
+            "Person Type": [
+                "teenager",
+                "young adult",
+                "adult",
+                "retired"
+            ]
+        },
+        {
+            "Number of Hours Painted": [
+                0,
+                4,
+                8,
+                12,
+                16,
+                20,
+                24,
+                28
+            ],
+            "Starting Income after Graduation": [
+                50000,
+                75000,
+                100000,
+                125000,
+                128000,
+                160000,
+                200000,
+                250000
+            ]
+        }
+    ]
+}
